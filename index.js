@@ -17,8 +17,8 @@
 
 // wrapGifts(gifts);
 
-const  myArray = ["Ada", "Brendan", "AAlii"];
-let party = "birthday";
+const  myArray = ["Guadalupe", "Ollie", "Aki"];
+let party = "surprise";
 
 function writeCards(myArray, party) {
     let myArrayOne = [];
@@ -47,7 +47,7 @@ function countDown(myArray1) {
         myArray1--
     }
 }
-countDown(10);
+countDown(4);
 
 
 
